@@ -234,6 +234,7 @@ text-align: center;
     justify-content: space-between;
     margin-top: 80px;
     padding: 32px 150px;
+    border-radius: 16px;
 }
 
 .extra-info{
