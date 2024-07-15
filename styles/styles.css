@@ -227,3 +227,13 @@ text-align: center;
     border-radius: 8px;
     
 }
+
+.extra{
+    background-color: rgba(13, 19, 33, 0.03);
+}
+
+.extra-info{
+    font-size: 20px;
+    font-weight: 600px;
+    
+}
